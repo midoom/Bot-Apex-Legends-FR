@@ -6,7 +6,7 @@
 
 # Pour modifier le bot :
 
-##Pré-requis :
+## Pré-requis :
 * Télécharger Python 3 sur votre ordinateur (https://www.python.org/downloads/)
 * Ouvrer une invite de commande en tant qu'administrateur (cmd) et copier/coller "python3 -m pip install -U discord.py" après l'installation copier/coller "python3 -m pip install -U discord.py[voice]"
 ## Etape par étape :
