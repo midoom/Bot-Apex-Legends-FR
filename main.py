@@ -164,4 +164,6 @@ client.run(discordBotToken)
 
 #API Tracker by https://apex.tracker.gg/site-api
 #Code source by https://github.com/AdautoP
+#Discord : Linoor#4081
+#Twitter: @LLinoor
 #Enjoy :)
