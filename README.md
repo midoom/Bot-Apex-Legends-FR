@@ -31,5 +31,5 @@ Si vous souhaitez héberger votre bot 24/7 sur Heroku, j'ai fourni les fichiers 
 * ?kills PSEUDO NICKNAME: Cherche le pseudo Origin, vérifie son nombre de morts et l'indique.
 * ?ajuda: Fonction d'aide, malheureusement je n'ai pas réussi à remplacer la fonction d'aide, alors j'en ai créé une autre avec un nom différent.
 
-#API Tracker by https://apex.tracker.gg/site-api
-#Code source by https://github.com/AdautoP
+API Tracker by https://apex.tracker.gg/site-api
+Code source by https://github.com/AdautoP
