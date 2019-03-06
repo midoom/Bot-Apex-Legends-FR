@@ -98,7 +98,7 @@ async def lvl(ctx, platform,nickname):
 
 @client.command(pass_context = True)
 async def clvl(ctx, platform, nickname):
-    if ctx.message.channel.name == "vos-level": #Le bot peut faire éxécuter cette commande uniqument sur un seul channel, supprimez cette commande pour que la commande s'éxécute sur tout vos channels
+    if ctx.message.channel.name == "Entrer le nom du channel": #Le bot peut faire éxécuter cette commande uniqument sur un seul channel, supprimez cette commande pour que la commande s'éxécute sur tout vos channels
         platformID = getPlatformId(platform)
         await client.reply("Recherche du level de {}".format(nickname))
         headers = {
@@ -119,7 +119,7 @@ async def clvl(ctx, platform, nickname):
 
 @client.command(pass_context = True)
 async def kills(ctx, platform, nickname):
-    if ctx.message.channel.name == "vos-level": #Le bot peut faire éxécuter cette commande uniqument sur un seul channel, supprimez cette commande pour que la commande s'éxécute sur tout vos channels
+    if ctx.message.channel.name == "Entrer le nom du channel": #Le bot peut faire éxécuter cette commande uniqument sur un seul channel, supprimez cette commande pour que la commande s'éxécute sur tout vos channels
         platformID = getPlatformId(platform)
         await client.reply("Recherche des kills de {}.".format(nickname))
         headers = {
