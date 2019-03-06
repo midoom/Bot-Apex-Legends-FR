@@ -1,0 +1,3 @@
+requests
+discord.py (Lisez "LisezMoi.md" pour plus d'informations)
+discord.py[voice] (Lisez "LisezMoi.md" pour plus d'informations)
