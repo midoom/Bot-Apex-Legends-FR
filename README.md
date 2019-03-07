@@ -2,7 +2,7 @@
 * Créez un canal appelé "vos-level" (sans guillemets). Mon bot n'acceptent que les commandes envoyées dans ce canal, les commandes des autres canaux seront supprimées automatiquement.
 * Il est préférable de créer des rôles pour 10 niveaux, comme ça la commande ?lvl fonctionnera aussi sur votre serveur. (Exemple de noms de rôles : "0-10", "10-20", "20-30",..., "90-100")
 * ?ajuda pour tout savoir sur le bot (dans "vos-level")
-* Ajouter un bot au serveur (https://discordapp.com/oauth2/authorize?client_id=55142753636115073026&scope=bot&permissions=8)
+* Ajouter un bot au serveur (https://discordapp.com/oauth2/authorize?client_id=551427536115073026&scope=bot&permissions=8)
 
 # Pour modifier le bot :
 
